@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Walid Anadif</h1>
 <h3 align="center">Web Developer from Morocco | Passionate about clean code & design</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidanadif&label=Profile%20views&color=0e75b6&style=flat" alt="walidanadif" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=walidanadif&label=Profile%20views&color=0e75b6&style=flat" alt="walidanadif" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidanadif" alt="walidanadif" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walidanadif" alt="walidanadif" /></a> </p> -->
 
 - 🌱 I’m currently learning **PHP | Freamworks | C | C++ | SQL | PL/SQL | Compilation | JS etc...**
 
